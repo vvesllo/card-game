@@ -8,4 +8,4 @@ Game written on C++ using SFML
 you must press the buttons indicated on the maps\
 the Joker card creates a random challenge\
 
-spent 3-4 hours to make this
+_spent 3-4 hours to make this_
