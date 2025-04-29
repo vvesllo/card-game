@@ -1,2 +1,5 @@
 # card-game
-Game written on SFML
+
+Game written on C++ using SFML
+
+![screenshot](screenshot.png)
